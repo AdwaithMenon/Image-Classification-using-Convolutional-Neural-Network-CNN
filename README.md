@@ -30,6 +30,14 @@ e) **Model Evaluation:** The performance of the model was evaluated using the te
 
 ## **Model Evaluation**
 
+### **Classification Report for Validation Set**
+
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/70052374/226969875-7ef49061-4b18-4341-b9af-22e4789a5f40.png">
+
+
+### **Classification Report for Test Set**
+
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/70052374/226969991-66334540-a5d1-44be-b76e-32146349dfaf.png">
 
 
 ## **Analysis**

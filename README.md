@@ -25,9 +25,11 @@ e) **Model Evaluation:** The performance of the model was evaluated using the te
 
 ## **Model Architecture**
 
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/70052374/226969153-61b900fb-9158-43bf-b3c3-2408d1bd2503.png">
 
 
 ## **Model Evaluation**
+
 
 
 ## **Analysis**

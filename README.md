@@ -12,9 +12,20 @@
 
 ## **Methodology**
 
+a) **Data Collection:** Data for the model was collected using the Bing Image Downloader. Specifically, 200 images of Honey Bees and 200 images of Wasps were downloaded. These images were then resized to 1./255.
+
+b) **Data Preparation:** The data was divided into three sets: a training set, a validation set, and a test set. The training set was used to train the CNN, while the validation set was used to improve the performance of the model. Labels were also created for each image, specifying whether it is a Honey Bee or a Wasp.
+
+c) **Model Building:** A CNN model was built using Keras, which is a high-level neural networks API. The model was built using MaxPooling, Dense, and Flatten layers. Binary cross-entropy was used as the loss function and Adam was used as the optimizer. Accuracy was specified as the metric to evaluate the performance of the model.
+
+d) **Model Training:** The training set was used to train the model. The number of epochs was set to 10 and the batch size was set to 20 . The model's performance was evaluated after each epoch using the validation set.
+
+e) **Model Evaluation:** The performance of the model was evaluated using the test set. The accuracy, loss, confusion matrix, support, precision, recall, and F1-score were calculated to determine the model's performance.
 
 
 ## **Model Architecture**
+
+
 
 ## **Model Evaluation**
 
